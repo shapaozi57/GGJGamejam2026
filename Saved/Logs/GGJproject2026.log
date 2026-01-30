@@ -1227,3 +1227,6 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2026.01.30-07.44.55:253][  0]LogPakFile: Initializing PakPlatformFile
 [2026.01.30-07.44.55:267][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
 [2026.01.30-07.46.43:691][  0]LogDerivedDataCache: C:/Users/94533/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.168 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 405 files in 755 folders with total size 5 MiB.
+[2026.01.30-09.12.43:039][  0]LogDerivedDataCache: C:/Users/94533/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.094 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 405 files in 755 folders with total size 5 MiB.
+[2026.01.30-10.12.43:048][  0]LogDerivedDataCache: C:/Users/94533/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.103 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 405 files in 755 folders with total size 5 MiB.
+[2026.01.30-11.58.48:707][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
